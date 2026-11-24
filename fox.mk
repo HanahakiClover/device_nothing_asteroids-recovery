@@ -19,7 +19,7 @@
 #
 
 # Maintainer name
-OF_MAINTAINER := Ubuntuify
+OF_MAINTAINER := HanahakiClover 
 
 # Screen stuff
 OF_SCREEN_H := 2400
