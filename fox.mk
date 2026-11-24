@@ -69,6 +69,9 @@ ENABLE_SCHEDBOOST := true
 # Enable the FRP reset addon
 OF_ENABLE_FRP_ADDON := 1
 
+# Tap to wake
+FOX_NO_BLANK_DT2W := 1
+
 # Time fixups
 OF_USE_LEGACY_TIME_FIXUP := 1
 
